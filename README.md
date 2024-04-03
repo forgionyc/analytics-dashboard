@@ -44,6 +44,9 @@
 
 Led the design and implementation of an analytics dashboard focused on wildlife seizures within the Risaralda Department. The project involved cleaning and standardizing open dataset sourced from datos.gov. I utilized Looker Studio by Google to develop a comprehensive dashboard presenting wildlife seizure insights. The primary objectives included identifying the top 3 most seized species, determining the leading organization in wildlife recovery within the department, and analyzing the yearly occurrence of seizure events across various municipalities.
 
+![image](https://github.com/forgionyc/analytics-dashboard/assets/109704682/abcbe7b6-2f11-4a65-a534-317b5bcab320)
+
+
 ## :rocket: Technologies
 
 The following tools were used in this project:
